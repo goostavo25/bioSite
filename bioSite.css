@@ -98,3 +98,9 @@ figcaption {
 .intro {
     text-indent: .2em;
 }
+    
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: Black;
+  color: white;
